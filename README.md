@@ -1,5 +1,5 @@
-<h1 align="center">Myself Saimon Hafiz</h1>
-<h3 align="center">Security Researcher & Social Commentator</h3>
+<h1 align="center">I'm Saimon Hafiz</h1>
+<h3 align="center">Linux System Administrator, Instructor, Developer, Hacker and Cultural Commentator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsaimonhafiz&label=Profile%20views&color=0e75b6&style=flat" alt="mdsaimonhafiz" /> </p>
 
@@ -7,23 +7,36 @@
 
 <p align="left"> <a href="https://twitter.com/mdsaimonhafiz" target="blank"><img src="https://img.shields.io/twitter/follow/mdsaimonhafiz?logo=twitter&style=for-the-badge" alt="mdsaimonhafiz" /></a> </p>
 
-- 🔭 Currently working on **CBA IT INSTITUTE**
+I am a professional MERN Stack Web Developer and Linux System Administrator Having Vast Hands-On Working Experience Using Linux & Cutting-Edge Technology Related Projects.
 
-- 🌱 I’m currently learning **WEB SECURITY & ACADEMICS**
 
-- 👯 Looking to collaborate on **ANY SECURITY RELATED PROJECTS**
+My Technology Stack
+==================
+- Git, GitHub, GitLab
+- HTML, CSS, JavaScript
+- Figma to HTML & CSS
+- Bootstrap, Tailwind, daisyUI, Flowbite, MUI, and more
+- React, MongoDB, NodeJS, and ExpressJS
+- Ubuntu, CentOS, Debian
+- Openware, OpenDAX, Cryptocurrency exchange deployment, Blockchain, Smart Contract setup
+- BTC Node, ETH Node, TRX Node, ERC20, TRC20, Coinpayments, and more
+- AWS, Digital Ocean, Google Cloud, Azure, Linode, Vultr
+- WordPress, Joomla, Drupal
+- Jitsi Meet, OpenMeet, BigBlueButton, Zoom, Video Conference
+- SMS Gateway, SMPP setup
+- Docker, Ansible, Puppet, Vagrant, Capistrano, Kubernetes, Netdata
 
-- 🤝 I’m looking for help with **Social Commentary**
+If you have any job need to start from scratch as my technology stack hire me to work for you on board.
 
-- 👨‍💻 All of my projects are available at [https://mdsaimonhafiz.me](https://mdsaimonhafiz.me)
-
-- 📝 I regularly write articles on [mdsaimonhafiz.me/blogs](mdsaimonhafiz.me/blogs)
-
-- 📄 Know about my experiences [https://mdsaimonhafiz.me](https://mdsaimonhafiz.me)
-
-- ⚡ Fun fact **meet offline!**
-
-### Blogs posts
+LinkedIn: linkedin.com/mdsaimonhafiz
+Telegram: t.me/mdsaimonhafiz
+Facebook: facebook.com/mdsaimonhafiz
+GitHub: github.com/mdsaimonhafiz
+LaunchPad: launchpad.net/~mdsaimonhafiz
+Twitter: twitter.com/mdsaimonhafiz
+Trello: trello.com/mdsaimonhafiz
+GitLab: gitlab.com/mdsaimonhafiz
+Instagram: instagram.com/mdsaimonhafiz
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
