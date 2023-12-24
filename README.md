@@ -1,4 +1,4 @@
-<h1 align="center">I'm Saimon Hafiz</h1>
+<h1 align="center">Peace be upon you, I'm Saimon Hafiz</h1>
 <h3 align="center">Linux System Administrator, Instructor, Developer, Hacker and Cultural Commentator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsaimonhafiz&label=Profile%20views&color=0e75b6&style=flat" alt="mdsaimonhafiz" /> </p>
@@ -7,50 +7,49 @@
 
 <p align="left"> <a href="https://twitter.com/mdsaimonhafiz" target="blank"><img src="https://img.shields.io/twitter/follow/mdsaimonhafiz?logo=twitter&style=for-the-badge" alt="mdsaimonhafiz" /></a> </p>
 
-I am a professional MERN Stack Web Developer and Linux System Administrator Having Vast Hands-On Working Experience Using Linux & Cutting-Edge Technology Related Projects.
+I'm an ELECTRICAL & COMPUTER ENGINEER, hailing from Digital Bangladesh. I bring a wealth of experience as a seasoned MERN Stack Web Developer and Linux System Administrator, with a robust track record in handling diverse projects involving Linux and cutting-edge technologies.
 
-
-My Technology Stack
+My Skill Set
 ==================
-- Git, GitHub, GitLab
-- HTML, CSS, JavaScript
-- Figma to HTML & CSS
-- Bootstrap, Tailwind, daisyUI, Flowbite, MUI, and more
-- React, MongoDB, NodeJS, and ExpressJS
-- Ubuntu, CentOS, Debian
-- Openware, OpenDAX, Cryptocurrency exchange deployment, Blockchain, Smart Contract setup
-- BTC Node, ETH Node, TRX Node, ERC20, TRC20, Coinpayments, and more
-- AWS, Digital Ocean, Google Cloud, Azure, Linode, Vultr
-- WordPress, Joomla, Drupal
-- Jitsi Meet, OpenMeet, BigBlueButton, Zoom, Video Conference
-- SMS Gateway, SMPP setup
-- Docker, Ansible, Puppet, Vagrant, Capistrano, Kubernetes, Netdata
+- Proficient in version control with Git, GitHub, and GitLab.
+- Expertise in front-end technologies: HTML, CSS, and JavaScript.
+- Ability to translate designs from Figma to HTML & CSS.
+- Familiarity with various CSS frameworks such as Bootstrap, Tailwind, daisyUI, Flowbite, MUI, and more.
+- Back-end proficiency in React, MongoDB, NodeJS, and ExpressJS.
+- Experienced in managing Ubuntu, CentOS, and Debian systems.
+- Specialized in cryptocurrency technologies: Openware, OpenDAX, Cryptocurrency exchange deployment, Blockchain, and Smart Contract setup.
+- Knowledgeable in managing BTC Node, ETH Node, TRX Node, ERC20, TRC20, Coinpayments, and more.
+- Cloud platform expertise: AWS, Digital Ocean, Google Cloud, Azure, Linode, Vultr.
+- Content management system proficiency: WordPress, Joomla, Drupal.
+- Experience with various video conferencing platforms: Jitsi Meet, OpenMeet, BigBlueButton, Zoom.
+- Expertise in setting up SMS Gateways and SMPP.
+- Skilled in containerization and orchestration tools: Docker, Ansible, Puppet, Vagrant, Capistrano, Kubernetes, Netdata.
 
-If you have any job need to start from scratch as my technology stack hire me to work for you on board.
-
-LinkedIn: linkedin.com/mdsaimonhafiz
+If you're in need of a professional to kickstart a project from scratch within my tech stack, consider bringing me on board. I'm ready to contribute my skills and expertise to your team.Thank you
+<h3 align="left">Contact me @</h3>
+LinkedIn: <a href="https://linkedin.com/in/mdsaimonhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdsaimonhafiz" height="30" width="40" /></a>
 Telegram: t.me/mdsaimonhafiz
-Facebook: facebook.com/mdsaimonhafiz
+Facebook: <a href="https://fb.com/mdsaimonhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsaimonhafiz" height="30" width="40" /></a>
 GitHub: github.com/mdsaimonhafiz
 LaunchPad: launchpad.net/~mdsaimonhafiz
 Twitter: twitter.com/mdsaimonhafiz
 Trello: trello.com/mdsaimonhafiz
 GitLab: gitlab.com/mdsaimonhafiz
-Instagram: instagram.com/mdsaimonhafiz
+Instagram: <a href="https://instagram.com/mdsaimonhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdsaimonhafiz" height="30" width="40" /></a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">For more:</h3>
 <p align="left">
 <a href="https://codepen.io/mdsaimonhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdsaimonhafiz" height="30" width="40" /></a>
 <a href="https://dev.to/mdsaimonhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdsaimonhafiz" height="30" width="40" /></a>
 <a href="https://twitter.com/mdsaimonhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdsaimonhafiz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdsaimonhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdsaimonhafiz" height="30" width="40" /></a>
+
 <a href="https://stackoverflow.com/users/22419398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22419398" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mdsaimonhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mdsaimonhafiz" height="30" width="40" /></a>
 <a href="https://kaggle.com/mdsaimonhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdsaimonhafiz" height="30" width="40" /></a>
-<a href="https://fb.com/mdsaimonhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsaimonhafiz" height="30" width="40" /></a>
-<a href="https://instagram.com/mdsaimonhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdsaimonhafiz" height="30" width="40" /></a>
+
+
 <a href="https://dribbble.com/mdsaimonhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mdsaimonhafiz" height="30" width="40" /></a>
 <a href="https://www.behance.net/mdsaimonhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mdsaimonhafiz" height="30" width="40" /></a>
 <a href="https://hashnode.com/@mdsaimonhafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mdsaimonhafiz" height="30" width="40" /></a>
